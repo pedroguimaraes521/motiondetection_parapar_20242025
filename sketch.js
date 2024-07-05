@@ -1,7 +1,7 @@
 var video;
 var scaler = 4;
 var preFrame;
-var c1 = '#FFFFFF';
+var c1 = '#1C4DA1';
 var c2 = '#FFFFFF';
 var propor = 0.75;
 
